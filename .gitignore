@@ -3,3 +3,4 @@ pb/
 certs/
 data/
 .env
+tmp/
